@@ -1,0 +1,7 @@
+@import url('style-S.css')(max-width: 620px);
+@import url('style-M.css')(min-width: 621px) and (max-width: 770px);
+@import url('style-L.css')(min-width: 771px) and (max-width: 1024px);
+@import url('style-XL.css')(min-width: 1025px);
+
+
+
